@@ -6,7 +6,7 @@ Async load any remote [UMD](https://github.com/umdjs/umd) compatible React compo
 
 This component use [script.js](https://github.com/ded/script.js/) for loading the remote component.
 
-See also : [React SystemJS loader](https://github.com/revolunet/react-systemjs-loader)
+See also : [React jspm loader](https://github.com/revolunet/react-jspm-loader)
 
 ## Usage
 
