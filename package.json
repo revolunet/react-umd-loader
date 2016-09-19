@@ -1,5 +1,5 @@
 {
-  "name": "react-load-umd",
+  "name": "react-umd-loader",
   "description": "Async load any remote UMD compatible React component into your app.",
   "author": "Julien Bouquillon",
   "user": "revolunet",
