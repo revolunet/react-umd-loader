@@ -1,5 +1,7 @@
 # react-umd-loader [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
+[![npm version](https://img.shields.io/npm/v/react-umd-loader.svg)](http://npmjs.org/react-umd-loader)
+
 Async load any remote [UMD](https://github.com/umdjs/umd) compatible React component into your app.
 
 This component use [script.js](https://github.com/ded/script.js/) for loading the remote component.
