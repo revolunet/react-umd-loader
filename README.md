@@ -8,6 +8,8 @@ This component use [script.js](https://github.com/ded/script.js/) for loading th
 
 You can use [unpkg.com](unpkg.com) or whatever hosting. The only requirement is that the build supports [UMD](https://github.com/umdjs/umd).
 
+This example loads the remote `react-json-viewer` component into our app
+
 ```js
 import LoadUmd from 'react-load-umd'
 
